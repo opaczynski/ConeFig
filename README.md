@@ -1,17 +1,16 @@
 <img width="100%" alt="header1" src="https://github.com/user-attachments/assets/4756f33c-f0b9-45ca-9cac-79f754e58821" />
 
 [![Windows Support](https://img.shields.io/badge/OS-Windows%20Only-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![NVIDIA Required](https://img.shields.io/badge/GPU-NVIDIA%20Only-76B900?style=for-the-badge&logo=nvidia)](https://www.nvidia.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **ConeFig** is a powerful desktop utility that applies full-screen shaders directly to your primary display, allowing developers, designers, and accessibility researchers to experience their digital environments through the lens of various color vision deficiencies (CVD). 
 
-Unlike software that only captures specific windows or relies on slow CPU-based filtering, ConeFig processes the entire screen at the hardware level. By leveraging low-latency GPU pipelines, it delivers a flawless, real-time emulation experience suitable for testing fast-paced video games, complex user interfaces, and multimedia content without any performance drop.
+Unlike software that only captures specific windows or relies on slow CPU-based filtering, ConeFig processes the entire screen at the hardware level. By leveraging low-latency GPU pipelines, it delivers a real-time emulation experience suitable for testing video games, complex user interfaces, and multimedia content.
 <br><br>
 <details>
 <summary><h3>⚠️ System Requirements & Limitations (Click to expand)</h3></summary>
  
-<b>ConeFig is exclusively designed for NVIDIA hardware.</b> Because the core architecture utilizes native NVIDIA driver hooks and specialized shader pipelines to achieve zero-latency full-screen filtering, an active <b>NVIDIA GeForce / RTX Graphics Card</b> is strictly required to run this application.
+<b>Hardware-accelerated performance:</b> ConeFig utilizes native GPU shader pipelines to achieve hardware-level full-screen filtering. While it works across different graphics cards, using the application on lower-end or integrated GPUs (such as integrated Intel graphics) may cause minor drops in screen fluidness or framerate. For a completely flawless, zero-latency experience, a dedicated graphics card is recommended.
  
 <h3>Known Windows & Full-Screen Limitations:</h3>
 <ul>
