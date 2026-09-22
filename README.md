@@ -49,11 +49,9 @@ Unlike software that only captures specific windows or relies on slow CPU-based 
 <p align="center"><img width="50%" alt="monochromatism_l" src="https://github.com/user-attachments/assets/847da0fd-f10e-4e8b-b4a0-c7121face203" /></p>
 <h3 align="center">Rod monochromacy:</h3>
 <p align="center"><img width="50%" alt="rod_monochromacy" src="https://github.com/user-attachments/assets/fc7ce0a4-b624-48cb-9c24-8e47ba192ee8" /></p>
-
-
+</details>
 
 Full preview is available [here](https://opaczynski.dev/projects/conefig/). Upload any image and render it in a fraction of a second using my shaders!
-</details>
 
 ---
 
