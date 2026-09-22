@@ -52,8 +52,9 @@ Unlike software that only captures specific windows or relies on slow CPU-based 
 
 
 
-
+Full preview is available [here](https://opaczynski.dev/projects/conefig/). Upload any image and render it in a fraction of a second using my shaders!
 </details>
+
 ---
 
 ## 🎨 Credits
