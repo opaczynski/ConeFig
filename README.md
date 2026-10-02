@@ -9,9 +9,11 @@ Unlike software that only captures specific windows or relies on slow CPU-based 
 <br><br>
 <details>
 <summary><h3>⚠️ System Requirements & Limitations (Click to expand)</h3></summary>
- 
+
+<p><b>Prerequisites:</b> Before running ConeFig, ensure you have <b>.NET 10 Runtime</b> installed along with up-to-date graphics drivers capable of running modern shader pipelines (such as <b>NVIDIA Game Ready</b> or equivalent vendor drivers for your GPU).</p>
+
 <b>Hardware-accelerated performance:</b> ConeFig utilizes native GPU shader pipelines to achieve hardware-level full-screen filtering. While it works across different graphics cards, using the application on lower-end or integrated GPUs (such as integrated Intel graphics) may cause minor drops in screen fluidness or framerate. For a completely flawless, zero-latency experience, a dedicated graphics card is recommended.
- 
+
 <h3>Known Windows & Full-Screen Limitations:</h3>
 <ul>
 <li><b>OS Interface Restrictions:</b> Due to core Windows architectural limitations, the shader pipeline cannot be applied to certain system-level UI elements (such as the secure UAC prompt screens or specific system overlays).</li>
